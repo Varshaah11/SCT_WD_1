@@ -54,6 +54,7 @@ A cutting‑edge, futuristic landing page built with **pure HTML, CSS & JavaScri
 
 ## 📂 Folder Structure
 SCT_WD_1/
+
 │── index.html # Structure
 
 │── styles.css # Styling & animations

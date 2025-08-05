@@ -9,11 +9,16 @@ A cutting‑edge, futuristic landing page built with **pure HTML, CSS & JavaScri
 
 ## 📸 Preview
 ![Project Screenshot](screenshots/preview.png)  
+<img width="1440" height="811" alt="Screenshot 2025-08-05 at 1 39 53 PM" src="https://github.com/user-attachments/assets/66355064-8540-4d43-a8d1-f865a727fbce" />
+
+<img width="1440" height="813" alt="Screenshot 2025-08-05 at 1 40 19 PM" src="https://github.com/user-attachments/assets/1a3bd3a9-cadc-449a-b7fa-f99b6db48bf5" />
+
+<img width="1440" height="812" alt="Screenshot 2025-08-05 at 1 40 32 PM" src="https://github.com/user-attachments/assets/9eba00cb-b3dd-4fe1-a5db-57f672168d5c" />
+
 <img width="1440" height="811" alt="Screenshot 2025-08-05 at 1 41 05 PM" src="https://github.com/user-attachments/assets/6dc063ed-306b-44eb-ac7a-f1d2c6ad9001" />
 
+<img width="1440" height="813" alt="Screenshot 2025-08-05 at 1 42 16 PM" src="https://github.com/user-attachments/assets/2a6f06c8-6678-4288-aea8-7f7a8195d59b" />
 
-**🔗 Live Demo:** [View on GitHub Pages](https://<your-username>.github.io/SCT_WD_1/)  
-**📂 Repository:** [GitHub Repo Link](https://github.com/<your-username>/SCT_WD_1)
 
 ---
 
@@ -50,7 +55,9 @@ A cutting‑edge, futuristic landing page built with **pure HTML, CSS & JavaScri
 ## 📂 Folder Structure
 SCT_WD_1/
 │── index.html # Structure
+
 │── styles.css # Styling & animations
+
 └── script.js # Interactivity
 
 
@@ -74,7 +81,5 @@ SCT_WD_1/
 | Mobile       | `<768px`       | Hamburger menu           |
 | Small Mobile | `<480px`       | Compact menu, reduced fx |
 
-<img width="134" height="20" alt="image" src="https://github.com/user-attachments/assets/7b83014c-952a-40ab-9437-4e6655cd104e" />
 
-<img width="116" height="20" alt="image" src="https://github.com/user-attachments/assets/95b22054-ed80-4a95-8b48-a8ab3f2009e1" />
 

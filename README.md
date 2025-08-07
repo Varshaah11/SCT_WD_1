@@ -71,14 +71,12 @@ SCT_WD_1/
 
 3. Enjoy the futuristic experience 🎇
 
-📱 Responsive Breakpoints
 
-| Device       | Breakpoint     | Navigation Style         |
-| ------------ | -------------- | ------------------------ |
-| Desktop      | `1200px+`      | Full navbar w/ effects   |
-| Tablet       | `768px–1199px` | Adaptive layout          |
-| Mobile       | `<768px`       | Hamburger menu           |
-| Small Mobile | `<480px`       | Compact menu, reduced fx |
+## 🌟 Project Highlight
 
+> “This project highlights the essentials of building a clean, structured, and responsive landing page using core web technologies.”
 
+---
+
+Feel free to use, modify, and expand this project as part of your web development journey!
 
